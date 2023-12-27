@@ -55,7 +55,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Editor de aúdio e vídeo](https://clipchamp.com/pt-br/)
-
+- [Prompts e roteiro](./roteiro.txt)
 
 ## 🛠️ Instruções de execução
 

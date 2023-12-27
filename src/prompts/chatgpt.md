@@ -6,7 +6,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em ciência de dados e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de ciência de dados feito para estudantes da área, e que tenha algum trocadilho 
-no nome
+| no nome |
 O podcast vai falar sobre dicas e novidades sobre o mundo de ciência de dados e o que está acontecendo no mercado
 
 {REGRAS}
