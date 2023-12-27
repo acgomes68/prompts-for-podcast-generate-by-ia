@@ -34,6 +34,7 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
+O resultado ficou assim [Áudio](./output/podcast_editado.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -59,7 +60,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro que estãono arquivo `roteiro.md` descrito na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chatgpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
